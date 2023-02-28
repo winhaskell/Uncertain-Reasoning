@@ -1,0 +1,29 @@
+https://users.cs.cf.ac.uk/Dave.Marshall/AI2/node77.html
+
+Uncertain Reasoning?
+Unfortunately the world is an uncertain place.
+
+Any AI system that seeks to model and reasoning in such a world must be able to deal with this.
+
+In particular it must be able to deal with:
+
+Incompleteness  -- compensate for lack of knowledge.
+Inconsistencies -- resolve ambiguities and contradictions.
+Change -- it must be able to update its world knowledge base over time.
+Clearly in order to deal with this some decision that a made are more likely to be true (or false) 
+than others and we must introduce methods that can cope with this uncertainty.
+
+There are three basic methods that can do this:
+
+Symbolic methods.
+Statistical methods.
+Fuzzy logic methods.
+
+We will look at symbolic methods in this lecture and look the others in the next lecture.
+
+
+
+
+
+
+
